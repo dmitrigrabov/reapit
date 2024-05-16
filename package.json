@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "zod": "^3.23.8",
+    "@mui/joy": "^5.0.0-beta.36",
+    "react-hook-form": "^7.51.4",
+    "react": "^18.3.1",
+    "@hookform/resolvers": "^3.3.4"
+  }
+}
